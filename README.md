@@ -1,3 +1,6 @@
 # hello-world
 Git Hello World
-this 2nd branch commit
+This is my first Git commit
+This is my second Git Commit
+
+
